@@ -1,0 +1,5 @@
+x=int(input('enter any number'))
+print('left shift using <<:',x<<1)
+print('multiplication by 2:',x*2)
+print('right shift using >>:',x>>1)
+print('division by 2:',x//2)
